@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang = "en">
+<head>
+  <meta charset = "UIF-8">
+  <style>
+    body {
+        background: 1linear-gradient(green, yellow);
+        height: 300px
+    }
+    td{
+      border: 10px solid black;
+    }
+    h1{
+      teat-shadow: 2px 2px;
+    }
+    </style>
+
+</html>
